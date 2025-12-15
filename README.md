@@ -1,14 +1,15 @@
-# Repository Title
+# CRISP-DM End-to-End Analytics Project
 ***
-<img width="480" height="270" alt="Sample Image" src="https://github.com/user-attachments/assets/9bbd81a2-700e-4d3b-9923-6df380f326ca" />
 <img width="395" height="128" alt="SACS Meharry Image-2" src="https://github.com/user-attachments/assets/28c56546-390d-44c7-abfa-ac4502b36cac" />
 
-# Introduction
-#### Disclaimer
-This repository is **for educational and research purposes only**. The included use case and model results should not be interpreted as professional, clinical, or production-ready advice.  
-Models and outputs are **illustrative examples** and should **not** be applied for critical decision-making without extensive validation by appropriate domain experts.  
+## Overview
 
-The authors and contributors disclaim any liability for the accuracy, completeness, or fitness of this work for any real-world application.
+This repository demonstrates the CRISP-DM (Cross-Industry Standard Process for Data Mining)
+framework using a structured, end-to-end analytics workflow.
+
+The goal of this project is to illustrate how business understanding, data preparation,
+modeling, evaluation, and deployment are connected in real-world data science projects.
+This repository is intended for educational and demonstration purposes.
 
 # CRISP-DM Methodology
 This project follows the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) methodology, published in 1999 to standardize data mining processes across industries. CRISP-DM is the most common methodology for data mining, analytics, and data science projects.
@@ -285,7 +286,8 @@ Please follow CRISP-DM methodology when contributing:
 - Update deployment plans accordingly
 
 # License
-[Specify the license under which this project is released]
+This project is released under the MIT License.
+
 # Repository Structure
 ```
    .
